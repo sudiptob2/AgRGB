@@ -1,0 +1,4 @@
+﻿Img.SetPixel(i, j, Color.FromArgb(0, 0, 0)); black -> black
+Img.SetPixel(i, j, Color.FromArgb(255, 0, 0)); white -> red
+Img.SetPixel(i, j, Color.FromArgb(238, 255, 0)); yl -> yl
+Img.SetPixel(i, j, Color.FromArgb(255, 0, 220)); gray -> purple

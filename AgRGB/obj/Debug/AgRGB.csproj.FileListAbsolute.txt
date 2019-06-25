@@ -1,0 +1,51 @@
+E:\Image processing\Projects\AgRGB\AgRGB\bin\Debug\AgRGB.exe.config
+E:\Image processing\Projects\AgRGB\AgRGB\bin\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB\AgRGB\bin\Debug\AgRGB.pdb
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.Form1.resources
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.Form2.resources
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.Properties.Resources.resources
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.csproj.GenerateResource.Cache
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.csproj.CoreCompileInputs.cache
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.pdb
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.csprojResolveAssemblyReference.cache
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.Form3.resources
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.Form_Disease_Info.resources
+E:\Image processing\Projects\AgRGB\AgRGB\bin\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB\AgRGB\bin\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB\AgRGB\obj\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\bin\Debug\AgRGB.exe.config
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\bin\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\bin\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\bin\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\bin\Debug\AgRGB.pdb
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.csprojResolveAssemblyReference.cache
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.Form1.resources
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.Form2.resources
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.Form3.resources
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.Form_Disease_Info.resources
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.Properties.Resources.resources
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.csproj.GenerateResource.Cache
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.csproj.CoreCompileInputs.cache
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB - Mungbean\AgRGB\obj\Debug\AgRGB.pdb
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\bin\Debug\AgRGB.exe.config
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\bin\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\bin\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\bin\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\bin\Debug\AgRGB.pdb
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.csprojResolveAssemblyReference.cache
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.Form1.resources
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.Form2.resources
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.Form3.resources
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.Form_Disease_Info.resources
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.Properties.Resources.resources
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.csproj.GenerateResource.Cache
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.csproj.CoreCompileInputs.cache
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.exe.manifest
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.application
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.exe
+E:\Image processing\Projects\AgRGB - Mungbean - with smt converter\AgRGB\obj\Debug\AgRGB.pdb

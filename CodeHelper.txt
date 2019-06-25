@@ -1,0 +1,5 @@
+flag description
+1 = rice analysis
+2 rice disease detection
+3 = mungbean analysis 
+4 = mungbean detection
